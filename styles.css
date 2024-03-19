@@ -1,0 +1,57 @@
+
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    max-inline-size: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 50px 0;
+}
+
+header img {
+    inline-size: 150px;
+    border-radius: 50%;
+}
+
+header h1 {
+    margin-block-start: 30px;
+}
+
+section {
+    padding: 50px 0;
+}
+
+
+#portfolio h2 {
+    margin-block-end: 20px;
+}
+
+
+.project {
+    margin-block-end: 20px; 
+}
+
+
+ul {
+    list-style: none;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fdfbfb;
+    padding: 30px 0;
+}
+
+footer p {
+    margin: 0;
+}
